@@ -9,14 +9,16 @@ const labelsFirst = [
     "React",
     "TypeScript",
     "JavaScript",
-    "HTML5",
-    "CSS3",
-    "SASS",
+    "HTML/CSS",
+    "Java Spring Boot",
+    "SaaS",
     "Flask",
     "Python",
     "SQL",
-    "PostgreSQL",
-    "Postman"
+    "Ruby on Rails",
+    "Databases",
+    "API Integrations",
+    "SAML/OKTA"
 ];
 
 const labelsSecond = [
@@ -27,19 +29,23 @@ const labelsSecond = [
     "Azure",
     "Linux",
     "Snowflake",
-    "Pandas",
-    "Selenium",
+    "Azure Machine Learning",
+    "Azure Databricks",
+    "CI/CD",
+    "ETL"
 ];
 
 const labelsThird = [
-    "OpenAI",
-    "Groq",
-    "LangChain",
-    "Qdrant",
-    "Hugging Face",
-    "LlamaIndex",
-    "Streamlit",
+    "TensorFlow",
+    "Pandas",
+    "NumPy",
+    "Reinforcement Learning",
+    "Deep Learning",
+    "Tableau",
+    "Power BI",
+    "MS Excel"
 ];
+
 
 function Expertise() {
     return (
@@ -50,9 +56,9 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
                     <h3>Full Stack Web Development</h3>
-                    <p>I have built a diverse array of web applications from scratch using modern technologies such as React and Flask. I have a strong proficiency in the SDLC process and frontend + backend development.</p>
+                    <p>I have built a diverse array of SaaS web applications from scratch using modern technologies such as React, Ruby on Rails and Flask. I have a strong proficiency in the SDLC process and frontend + backend development.</p>
                     <div className="flex-chips">
-                        <span className="chip-title">Tech stack:</span>
+                        <span className="chip-title">Technical Skills:</span>
                         {labelsFirst.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
@@ -61,10 +67,10 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faDocker} size="3x"/>
-                    <h3>DevOps & Automation</h3>
-                    <p>Once the application is built, I help clients set up DevOps testing, CI/CD pipelines, and deployment automation to support the successful Go-Live.</p>
+                    <h3>Cloud and Infra</h3>
+                    <p>I am proficient in Cloud technologies. I have experience in Deployments, CI/CD pipelines, ETL pipelines, EC2, Data Blobs and a range of cloud technologies. I have experience with both AWS and Azure cloud. This ultimately will help me in Data Engineering tasks</p>
                     <div className="flex-chips">
-                        <span className="chip-title">Tech stack:</span>
+                        <span className="chip-title">Technical Skills:</span>
                         {labelsSecond.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
@@ -73,10 +79,10 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
-                    <h3>GenAI & LLM</h3>
-                    <p>Stay relevant in the market by leveraging the latest AI models in your projects. I have professional experience building enterprise grade GenAI-enabled solutions to empower intelligent decision making.</p>
+                    <h3>Data Science & Analysis</h3>
+                    <p>I have gathered expertise in Data Science, Machine Learning and Data Analytics during my Master's degree in Data Science. I know various Machine Lerning techniques such as Reinforcement Learning, Deep Learning, Training and Deployment of Machine Learning models.</p>
                     <div className="flex-chips">
-                        <span className="chip-title">Tech stack:</span>
+                        <span className="chip-title">Technical Skills:</span>
                         {labelsThird.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
