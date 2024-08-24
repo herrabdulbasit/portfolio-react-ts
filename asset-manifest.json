@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/herrabdulbasit/portfolio-react-ts/static/css/main.0586f89f.css",
-    "main.js": "/herrabdulbasit/portfolio-react-ts/static/js/main.031a373a.js",
-    "static/js/453.b05d8aa5.chunk.js": "/herrabdulbasit/portfolio-react-ts/static/js/453.b05d8aa5.chunk.js",
-    "static/media/mock10.png": "/herrabdulbasit/portfolio-react-ts/static/media/mock10.2d05b02ba569a430a255.png",
-    "static/media/mock09.png": "/herrabdulbasit/portfolio-react-ts/static/media/mock09.e18677ccfc932e52d754.png",
-    "static/media/mock08.png": "/herrabdulbasit/portfolio-react-ts/static/media/mock08.13f46873fdbd382f4b76.png",
-    "static/media/mock04.png": "/herrabdulbasit/portfolio-react-ts/static/media/mock04.f7b5679efade992a078c.png",
-    "static/media/bg-light.png": "/herrabdulbasit/portfolio-react-ts/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/mock07.png": "/herrabdulbasit/portfolio-react-ts/static/media/mock07.3f1110f482232b33c6a2.png",
-    "static/media/mock05.png": "/herrabdulbasit/portfolio-react-ts/static/media/mock05.4faafa70d200d1519a34.png",
-    "static/media/mock06.png": "/herrabdulbasit/portfolio-react-ts/static/media/mock06.ea816617e0d0fa0f63ca.png",
-    "static/media/bg-dark.png": "/herrabdulbasit/portfolio-react-ts/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/mock01.png": "/herrabdulbasit/portfolio-react-ts/static/media/mock01.61bd486a54bf6e17ee5a.png",
-    "static/media/mock02.png": "/herrabdulbasit/portfolio-react-ts/static/media/mock02.bced48ae9cdda3acf1a3.png",
-    "static/media/mock03.png": "/herrabdulbasit/portfolio-react-ts/static/media/mock03.a4600719e0b5d2a3155b.png",
-    "static/media/headshot.jpeg": "/herrabdulbasit/portfolio-react-ts/static/media/headshot.b077dfc3aa6f77b2d4cf.jpeg",
-    "index.html": "/herrabdulbasit/portfolio-react-ts/index.html",
-    "main.0586f89f.css.map": "/herrabdulbasit/portfolio-react-ts/static/css/main.0586f89f.css.map",
-    "main.031a373a.js.map": "/herrabdulbasit/portfolio-react-ts/static/js/main.031a373a.js.map",
-    "453.b05d8aa5.chunk.js.map": "/herrabdulbasit/portfolio-react-ts/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/portfolio-react-ts/static/css/main.2836bf62.css",
+    "main.js": "/portfolio-react-ts/static/js/main.6db3c62e.js",
+    "static/js/453.b05d8aa5.chunk.js": "/portfolio-react-ts/static/js/453.b05d8aa5.chunk.js",
+    "static/media/mock10.png": "/portfolio-react-ts/static/media/mock10.2d05b02ba569a430a255.png",
+    "static/media/mock09.png": "/portfolio-react-ts/static/media/mock09.e18677ccfc932e52d754.png",
+    "static/media/mock08.png": "/portfolio-react-ts/static/media/mock08.13f46873fdbd382f4b76.png",
+    "static/media/mock04.png": "/portfolio-react-ts/static/media/mock04.f7b5679efade992a078c.png",
+    "static/media/bg-light.png": "/portfolio-react-ts/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/mock07.png": "/portfolio-react-ts/static/media/mock07.3f1110f482232b33c6a2.png",
+    "static/media/mock05.png": "/portfolio-react-ts/static/media/mock05.4faafa70d200d1519a34.png",
+    "static/media/mock06.png": "/portfolio-react-ts/static/media/mock06.ea816617e0d0fa0f63ca.png",
+    "static/media/bg-dark.png": "/portfolio-react-ts/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock01.png": "/portfolio-react-ts/static/media/mock01.61bd486a54bf6e17ee5a.png",
+    "static/media/mock02.png": "/portfolio-react-ts/static/media/mock02.bced48ae9cdda3acf1a3.png",
+    "static/media/mock03.png": "/portfolio-react-ts/static/media/mock03.a4600719e0b5d2a3155b.png",
+    "static/media/headshot.jpeg": "/portfolio-react-ts/static/media/headshot.b077dfc3aa6f77b2d4cf.jpeg",
+    "index.html": "/portfolio-react-ts/index.html",
+    "main.2836bf62.css.map": "/portfolio-react-ts/static/css/main.2836bf62.css.map",
+    "main.6db3c62e.js.map": "/portfolio-react-ts/static/js/main.6db3c62e.js.map",
+    "453.b05d8aa5.chunk.js.map": "/portfolio-react-ts/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0586f89f.css",
-    "static/js/main.031a373a.js"
+    "static/css/main.2836bf62.css",
+    "static/js/main.6db3c62e.js"
   ]
 }
